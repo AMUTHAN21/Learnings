@@ -1,0 +1,35 @@
+Agile Manisfesto:
+
+The Agile Manifesto is a set of foundational principles for agile software development that emphasizes flexibility, collaboration, and customer satisfaction.
+MVP- Minimun Viable Product (It delivers)-Delivers the minimum that satisfies the basic requirement.
+Sprint(Time Taken for successive iteration or period of time)-It lasts generally 2 weeks.
+Team's Velocity-(The time required for delivering the MVP or Speed of Execution).
+Retrospective-(Reflect for improvement or Learn from Process)
+
+
+(User Stories--->Product Backlog---->Sprint backlog--->Story point)
+
+Key Concepts:
+1.User Stories:
+	Written in specific format, all product requirements and features.
+2.Product backlog:
+	Contains all the user stories, user stories are added here once created.
+3.Sprint:
+	couple of user stories are added to sprint for processing for that specific sprint.
+4.Story point:
+	measure scale of complexity.
+5.Velocity:
+	number of story points the team delivered.
+6.MVP:
+
+
+Tools:
+1.Burndown Chart-(you can see total amount of work,remaining,even team velocity).
+2.Agile kanban board-(Visual representation of work the team is doing).
+	
+
+Agile Rituals:
+1.Sprint Planning.
+2.Daily Stand-ups.
+3.Sprint Review.
+4.Retrospectives.
